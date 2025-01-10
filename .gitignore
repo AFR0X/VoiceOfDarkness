@@ -13,3 +13,5 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content/Safe_House/maps/Safe_House_BuiltData.uasset
+Content/StorageHouse/Maps/Overview_BuiltData.uasset
+Content/StorageHouse/Maps/Demonstration_BuiltData.uasset
